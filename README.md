@@ -1,4 +1,4 @@
-# Personal Leetcode Solutions
+# Personal LeetCode Solutions
 
 Repo organized first by language and then by problem number.
 
